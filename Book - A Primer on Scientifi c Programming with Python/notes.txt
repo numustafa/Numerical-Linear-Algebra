@@ -1,0 +1,5 @@
+# 1. Key for a successful program:
+    * Read the problem statement carefully, and draw the map to solution
+    * Write a prog: 
+    * Write a test code to find known errors and complete verification
+
